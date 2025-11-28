@@ -22,7 +22,7 @@ Bem-vindo ao **Catálogo de Séries**, uma aplicação web desenvolvida em PHP p
 ## 🛠️ Tecnologias Utilizadas
 
 * **Back-end:** PHP 7.4+
-* **Banco de Dados:** MySQL / MariaDB
+* **Banco de Dados:** MySQL
 * **Front-end:** HTML5, CSS3, [Bootstrap 5.3](https://getbootstrap.com/)
 * **Estilização:** Tema "Dark Streaming" personalizado (`style.css`).
 * **Tipografia:** Fonte [Outfit](https://fonts.google.com/specimen/Outfit) via Google Fonts.
