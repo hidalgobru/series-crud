@@ -1,0 +1,17 @@
+
+conexao.php
+# --- Sistema Operativo ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Editores de Código ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- PHP e Logs ---
+error_log
+php_error.log
+*.log
